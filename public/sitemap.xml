@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>https://xampprocky.github.io/</loc>
+            <loc>http://127.0.0.1:1111/</loc>
             
         </url>
     
         <url>
-            <loc>https://xampprocky.github.io/blog/</loc>
+            <loc>http://127.0.0.1:1111/blog/</loc>
             
         </url>
     
         <url>
-            <loc>https://xampprocky.github.io/blog/rust-2021/</loc>
+            <loc>http://127.0.0.1:1111/blog/rust-2021/</loc>
             
         </url>
     
